@@ -1,1 +1,1 @@
-# vinter-rpg
+# VinterRPG
